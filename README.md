@@ -7,5 +7,8 @@ You can find all the game details here "https://github.com/emilybache/Yatzy-Refa
 ### Dependencies
 This solution was developped using Java 11 
 
+###Executing program
+All categories were tested based on different examples proposed in the game descirption 
+"https://sammancoaching.org/kata_descriptions/yatzy.html"
 ## Authors
 Imen Omri
