@@ -43,7 +43,7 @@ public class Dice {
     }
 
     /**
-     *  Get dice rolls where their occurence is gretaer than the given param
+     *  Get dice rolls where their occurence is equal to the given param
      *
      * @return the sum of the coressponding dice rolls
      */
