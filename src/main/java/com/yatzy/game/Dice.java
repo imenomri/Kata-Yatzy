@@ -101,7 +101,7 @@ public class Dice {
     /**
      * Checks if the roll is compatible with the category Large Straight
      *
-     * @return true if full house, false otherwise.
+     * @return true if Large Straight, false otherwise.
      */
     public boolean isLargeStraight() {
         return diceRollResults.stream()
